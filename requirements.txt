@@ -1,0 +1,5 @@
+ultralytics
+gdal
+shutil
+awscli
+boto3
